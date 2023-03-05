@@ -1,8 +1,0 @@
-1;Roberto;49
-2;leo;11
-3;Sivami;76
-4;roberto;20
-5;Marcio;22
-6;ronaldo;25
-7;raquel;15
-8;leandro;40
